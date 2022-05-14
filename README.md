@@ -1,1 +1,1 @@
-MySQL Database conector for .NET framework on C++
+MySQL Database conector for .NET framework on C++ (Windows DLL)
